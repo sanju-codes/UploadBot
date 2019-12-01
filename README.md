@@ -1,4 +1,4 @@
-# [UploaditRoBot](https://t.me/UploadItRobot)
+# [UploadBot](https://t.me/UploadItRobot)
 Simple URL uploader bot for Telegram - Based on MadelineProto
 You can use with 2 methods:
 
@@ -13,7 +13,7 @@ You can use with 2 methods:
 
 ## With VPS
 
-1-) Run `git clone https://github.com/TheDarkW3b/uploadit
+1-) Run `git clone https://github.com/Sanju8943/UploadBot
 
 2-) Run `php fileassistantbot.php`
 
@@ -30,5 +30,3 @@ You can use with 2 methods:
 // Working With Debian based distro
 
 ## Credits
-Thanks @nimah79 for async and helps!
-Thanks @spechide for helps! And it's ReEdited By [@TheDarkW3b](https://t.me/TheDarkW3b)
